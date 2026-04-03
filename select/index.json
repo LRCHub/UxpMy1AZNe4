@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "君たちキウイ・パパイア・マンゴーだね。",
+  "base_artist": "Meiko Nakahara",
+  "createdAt": "2026-04-03T16:39:43.309278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "chay",
+      "has_synced": false,
+      "path": "select/01_君たちキウイ・パパイア・マンゴーだね。_chay.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "Meiko Nakahara",
+      "has_synced": false,
+      "path": "select/02_君たちキウイ・パパイア・マンゴーだね。_Meiko_Nakahara.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "Meiko Nakahara",
+      "has_synced": true,
+      "path": "select/03_君たちキウイ・パパイア・マンゴーだね。_Meiko_Nakahara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "中原めいこ",
+      "has_synced": true,
+      "path": "select/04_君たちキウイ・パパイア・マンゴーだね。_中原めいこ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "降幡 愛",
+      "has_synced": true,
+      "path": "select/05_君たちキウイ・パパイア・マンゴーだね。_降幡_愛.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "中原めいこ",
+      "has_synced": false,
+      "path": "select/06_君たちキウイ・パパイア・マンゴーだね。_中原めいこ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君たちキウイ・パパイア・マンゴーだね",
+      "artist": "中原めいこ",
+      "has_synced": true,
+      "path": "select/07_君たちキウイ・パパイア・マンゴーだね_中原めいこ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君たちキウイ・パパイア・マンゴーだね",
+      "artist": "Meiko Nakahara",
+      "has_synced": true,
+      "path": "select/08_君たちキウイ・パパイア・マンゴーだね_Meiko_Nakahara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_01_君たちキウイ・パパイア・マンゴーだね。_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_02_君たちキウイ・パパイア・マンゴーだね。_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_03_君たちキウイ・パパイア・マンゴーだね。_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "君たちキウイ・パパイア・マンゴーだね。",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_04_君たちキウイ・パパイア・マンゴーだね。_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "君たちキウイ・パパイヤ・マンゴーだね。",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_05_君たちキウイ・パパイヤ・マンゴーだね。_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "君たちキウイ・パパイア・マンゴーだね",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_06_君たちキウイ・パパイア・マンゴーだね_中原_めいこ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "君たちキウイ・パパイア・マンゴーだね.",
+      "artist": "中原 めいこ",
+      "has_synced": false,
+      "path": "select/pl_07_君たちキウイ・パパイア・マンゴーだね._中原_めいこ.txt"
+    }
+  ]
+}
